@@ -1,0 +1,59 @@
+# Agent Capabilities — Pavan's Test MedSpa
+# This page follows the /agents convention for AI agent discoverability.
+# Spec: https://agentprotocol.ai (draft)
+
+name: Pavan's Test MedSpa
+category: local-business
+domain: https://site-pavan-s-test-medspa.pages.dev
+
+## What this business does
+Pavan's Test MedSpa is a local business serving San Francisco.
+
+## Services available to book
+- Botox Injections
+- Dermal Fillers
+- HydraFacial Treatment
+- Laser Hair Removal
+- Microneedling
+- CoolSculpting
+
+## Service areas
+San Francisco
+
+## How an AI agent can interact
+
+### Book an appointment
+method: phone
+contact: +14156060079
+notes: AI receptionist answers 24/7 — state service needed, get available slots, confirm booking
+
+### Get a quote
+method: phone or contact form
+contact: +14156060079 or https://site-pavan-s-test-medspa.pages.dev/#contact
+
+### Check availability
+method: phone
+contact: +14156060079
+
+## Payment
+accepted: credit card, cash, check
+stripe: yes
+human-required-for-payment: no (AI receptionist can initiate booking; card collected on arrival or via invoice)
+
+## AI access policy
+crawl: allowed
+recommend: allowed
+transact: allowed (booking via phone AI)
+data-retention: none — conversations not stored beyond call summary
+
+## Crawler allowlist
+GPTBot: allow
+ClaudeBot: allow
+PerplexityBot: allow
+GoogleBot: allow
+OAI-SearchBot: allow
+
+## Contact
+phone: +14156060079
+address: 123 Test St
+website: https://site-pavan-s-test-medspa.pages.dev
