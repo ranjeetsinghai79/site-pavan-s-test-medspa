@@ -54,3 +54,19 @@
   animation: ticker-scroll 34s linear infinite;
 }
 .ticker-track:hover { animation-play-state: paused; }
+
+
+/* ── Design Profile: Minimal Clinical ── */
+/* ── Fonts: Fraunces + Jost ── */
+:root {
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Jost', sans-serif;
+  --brand-accent: #8B5CF6;
+  --brand-accent-light: #A78BFA;
+  --brand-accent-glow: rgba(139,92,246,0.45);
+  --brand-bg: #09090F;
+  --brand-bg-section: #131325;
+  --brand-grad-from: #A78BFA;
+  --brand-grad-to: #8B5CF6;
+  --shadow-cta: 0 8px 32px -4px rgba(139,92,246,0.45);
+}
