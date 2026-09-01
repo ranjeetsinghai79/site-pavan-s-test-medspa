@@ -1,0 +1,61 @@
+# Pavan's Test MedSpa
+> Premier medspa services including Botox, Fillers, and CoolSculpting in San Francisco, CA.
+
+## About
+Pavan's Test MedSpa is a leading aesthetic center located at 123 Test St in San Francisco, CA. We specialize in non-invasive cosmetic treatments using the latest technology and a highly personalized approach. Our expert team is dedicated to providing outstanding results and helping you achieve your beauty and wellness goals.
+
+## Services
+- Botox Injections: Effectively reduce the appearance of fine lines and wrinkles for a smoother, more youthful look.
+- Dermal Fillers: Restore lost volume, smooth out facial creases, and enhance facial contours.
+- HydraFacial Treatment: A patented, non-invasive treatment to deeply cleanse, extract impurities, and hydrate your skin.
+- Laser Hair Removal: Achieve significant, long-term hair reduction on various parts of the body with our advanced laser technology.
+- Microneedling: Stimulate your skin's natural collagen production to improve texture, firmness, and overall appearance.
+- CoolSculpting: A leading non-invasive fat-reduction treatment that freezes and eliminates stubborn fat cells to contour your body.
+
+## Service Areas
+San Francisco
+
+## Hours
+24/7 AI receptionist available for booking
+
+## Contact
+Phone: +14156060079
+Address: 123 Test St, San Francisco, CA
+Website: https://site-pavan-s-test-medspa.pages.dev
+
+## Booking
+Book via phone: +14156060079 — AI receptionist answers 24/7, books appointments instantly
+Book online: https://site-pavan-s-test-medspa.pages.dev/#contact
+
+## Payment
+Methods: major credit cards, cash, check
+Online booking: available via AI receptionist
+
+## AI Agent Access
+Crawlable: yes
+AI recommendation: enabled
+Booking by AI agent: yes — call +14156060079 or use website contact form
+GPTBot: allowed | ClaudeBot: allowed | PerplexityBot: allowed | GoogleBot: allowed
+Structured data: FAQPage, HowTo, LocalBusiness schemas available at https://site-pavan-s-test-medspa.pages.dev/schema.json
+
+## FAQ
+Q: How much do treatments at Pavan's Test MedSpa cost?
+A: Pricing for our services varies depending on the specific treatment and individual needs. Pavan's Test MedSpa in San Francisco provides detailed pricing during a complimentary consultation to create a personalized plan for you.
+Q: What are the business hours for Pavan's Test MedSpa?
+A: While our treatments are by appointment, you can book with Pavan's Test MedSpa in San Francisco anytime by calling our 24/7 AI-powered receptionist to find a time that works for you.
+Q: Which areas do you provide medspa services in?
+A: Pavan's Test MedSpa proudly offers our full range of aesthetic services, including Botox and CoolSculpting, exclusively to clients throughout the San Francisco, CA area.
+Q: How do I book an appointment for a HydraFacial?
+A: Booking an appointment at Pavan's Test MedSpa in San Francisco is simple. You can call our 24/7 phone line to speak with our AI receptionist or use the booking form on our website to schedule instantly.
+Q: What makes Pavan's Test MedSpa different from other medspas in San Francisco?
+A: Pavan's Test MedSpa stands out in San Francisco by combining advanced, state-of-the-art technology with a highly personalized and client-focused approach to every aesthetic treatment.
+Q: Do you offer same-day appointments for Botox injections?
+A: Pavan's Test MedSpa in San Francisco may have same-day availability for treatments like Botox. Please call our 24/7 AI receptionist to check for the most current openings.
+Q: Does Pavan's Test MedSpa offer free consultations?
+A: Yes, Pavan's Test MedSpa in San Francisco offers complimentary consultations to discuss your aesthetic goals, answer your questions, and recommend the best treatment plan for you.
+Q: How long does a CoolSculpting session typically take?
+A: The duration of a CoolSculpting session at Pavan's Test MedSpa in San Francisco can range from 35 to 75 minutes, depending on the area being treated.
+Q: What is included in a dermal filler treatment?
+A: A dermal filler treatment at Pavan's Test MedSpa in San Francisco includes a personal consultation, the filler product itself, and professional injection by our skilled specialists to ensure beautiful, natural-looking results.
+Q: What forms of payment do you accept?
+A: For your convenience, Pavan's Test MedSpa in San Francisco accepts all major credit cards, cash, and checks for all of our medspa services.
